@@ -1,6 +1,6 @@
 # wins-collabathon
 
-![WiNS logo](wins-logo.jpg "WiNS")
+<img src="images/wins-logo.jpg"  width="30%" height="30%">
 
 This is the joint code repository for the Women in Network Science + igraph collabathon 2023.
 
