@@ -9,7 +9,7 @@ Collaborators:
 <table>
     <tr>
     <td>Adeola Adegbemijo</td>
-    <td valign="center"><img src="images/adegbemijo.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/Adeola.jpeg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Sabina Adhikari</td>
