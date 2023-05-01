@@ -32,7 +32,7 @@ Collaborators:
 * Xie He
 
 <table>
-    <tr style="width:20%">
+    <tr style="width:50%">
     <td>Alice Schwarze</td>
     <td valign="center"><img src="images/schwarze.jpg"  width="10%" height="10%"></td>
     </tr>
