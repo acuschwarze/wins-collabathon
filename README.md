@@ -45,7 +45,7 @@ Collaborators:
     </tr>
     <tr>
     <td>Iris Damiao</td>
-    <td valign="center"><img src="images/damiao.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/damiao_iris.jpg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Camille DeSisto</td>
