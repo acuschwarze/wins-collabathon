@@ -28,5 +28,5 @@ Collaborators:
 * Larrisa Miller
 * Moyi Tian
 * Anna Vasenina
-* Alice Schwarze
+* Alice Schwarze <img src="images/schwarze.jpg"  width="10%" height="10%">
 * Xie He
