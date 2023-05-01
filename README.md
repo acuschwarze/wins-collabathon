@@ -33,7 +33,7 @@ Collaborators:
     </tr>
     <tr>
     <td>Daniela Castellanos-Reyes</td>
-    <td valign="center"><img src="images/castellanos-reyes.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/Castellanos-Reyes.jpg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Emma Crenshaw</td>
