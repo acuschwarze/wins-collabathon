@@ -25,7 +25,7 @@ Collaborators:
     </tr>
     <tr>
     <td>Elena Candellone</td>
-    <td valign="center"><img src="images/candellone.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/candellone.jpeg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Mariah Boudreau</td>
