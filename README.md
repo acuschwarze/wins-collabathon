@@ -1,5 +1,7 @@
 # wins-collabathon
 
+![WiNS logo](wins-logo.png "WiNS")
+
 This is the joint code repository for the Women in Network Science + igraph collabathon 2023.
 
 Collaborators: 
