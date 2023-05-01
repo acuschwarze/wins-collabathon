@@ -30,3 +30,5 @@ Collaborators:
 * Anna Vasenina
 * Alice Schwarze <img src="images/schwarze.jpg"  width="10%" height="10%">
 * Xie He
+
+<table><tr><td>Alice Schwarze<\td><td valign="center"><img src="images/schwarze.jpg"  width="10%" height="10%"></td></tr></table>
