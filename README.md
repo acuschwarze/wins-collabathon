@@ -21,7 +21,7 @@ Collaborators:
     </tr>
     <tr>
     <td>Prianka Bhattacharjee</td>
-    <td valign="center"><img src="images/boudreau.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/bhattacharjee.jpg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Elena Candellone</td>
