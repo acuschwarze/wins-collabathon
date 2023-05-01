@@ -1,12 +1,12 @@
 # wins-collabathon
 
-<img src="images/wins-logo.jpg"  width="30%" height="30%">
+<img src="images/wins-logo.jpg"  width="10%" height="10%">
 
 This is the joint code repository for the Women in Network Science + igraph collabathon 2023.
 
-Collaborators: 
+Collaborators:
 
-* Adeola Adegbemijo
+* Adeola Adegbemijo <img src="images/adegbemijo.jpg"  width="10%" height="10%">
 * Sabina Adhikari
 * Stephanie Althoff
 * Prianka Bhattacharjee
