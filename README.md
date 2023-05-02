@@ -61,7 +61,7 @@ Collaborators:
     </tr>
     <tr>
     <td>Rafiazka Millanida Hilman</td>
-    <td valign="center"><img src="images/hilman.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/fika.jpg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Maria Gabriela Juncosa</td>
@@ -93,7 +93,7 @@ Collaborators:
     </tr>
     <tr>
     <td>Anna Vasenina</td>
-    <td valign="center"><img src="images/vasenina.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/vasenina.jpeg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Alice Schwarze</td>
