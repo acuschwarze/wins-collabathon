@@ -21,7 +21,7 @@ Collaborators:
     </tr>
     <tr>
     <td>Prianka Bhattacharjee</td>
-    <td valign="center"><img src="images/bhattacharjee2.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/wins-logo.jpg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Elena Candellone</td>
@@ -61,7 +61,7 @@ Collaborators:
     </tr>
     <tr>
     <td>Rafiazka Millanida Hilman</td>
-    <td valign="center"><img src="images/fika2.jpg"  width="10%" height="10%"></td>
+    <td valign="center"><img src="images/wins-logo.jpg"  width="10%" height="10%"></td>
     </tr>
     <tr>
     <td>Maria Gabriela Juncosa</td>
